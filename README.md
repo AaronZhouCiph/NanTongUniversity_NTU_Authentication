@@ -6,6 +6,8 @@
 NTU_In.exe为登录脚本，需要"NTU_Account.txt"填写正确  
 NTU_Out.exe为注销脚本，与"NTU_Account.txt"无关  
 
+实现原理和思路来源:
+[校园网自动登录全平台解决方案 - ourongxing的文章 - 知乎](https://zhuanlan.zhihu.com/p/364016452)
 
 ### 注意：
 1. 第一次使用前需要打开"NTU_Account.txt"，按照提示填入账号信息
