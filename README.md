@@ -16,7 +16,7 @@ NTU_Out.exe为注销脚本，与"NTU_Account.txt"无关
 
 ### 关于开机自启，自动登录：
 
-为登录脚本创建快捷方式，并将快捷方式移动到一下两个路径之一即可（建议路径一）  
+为登录脚本创建快捷方式，并将快捷方式移动到一下两个路径之一即可实现开机自动登录到校园网（建议路径一）  
 - 路径一：  
 C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup  
 - 路径二：  
