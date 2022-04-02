@@ -1,8 +1,7 @@
-# NTU_Login
-南通大学校园网一键认证
+# 南通大学校园网一键认证
 
 
-# 使用说明
+## 使用说明
 
 NTU_In.exe为登录脚本，需要"NTU_Account.txt"填写正确  
 NTU_Out.exe为注销脚本，与"NTU_Account.txt"无关  
