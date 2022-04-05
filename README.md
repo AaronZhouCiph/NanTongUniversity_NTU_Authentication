@@ -1,12 +1,11 @@
 # 南通大学校园网一键认证
 
-
 ## 使用说明
 
 NTU_In为登录脚本，需要"NTU_Account.txt"填写正确  
 NTU_Out为注销脚本，与"NTU_Account.txt"无关  
 
-实现原理和思路来源:
+关于实现原理这篇文章写的很详细[点赞👍]:
 [校园网自动登录全平台解决方案 - ourongxing的文章 - 知乎](https://zhuanlan.zhihu.com/p/364016452)
 
 ### 注意：
@@ -22,3 +21,8 @@ NTU_Out为注销脚本，与"NTU_Account.txt"无关
 C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup  
 - 路径二：  
 %APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup  
+
+
+### 声明
+- 本人小白，Python仅为业余爱好
+- 本脚本仅供学习交流，请勿用于商业及非法用途，因此产生法律纠纷与本人无关
